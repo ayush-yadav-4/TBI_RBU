@@ -8,7 +8,7 @@ const Herosection = () => {
     <div className="p-9 py-12 mt-16">
       <div className="container mx-auto px-6 flex flex-col lg:flex-row items-center  ">
         <div className="lg:w-1/2  text-center md:text-left">
-          <h2 className="text-6xl md:text-7xl font-semibold  text-gray-800 mb-6 md:mb-12">Cloud Navigator</h2>
+          <h2 className="text-6xl md:text-7xl font-semibold  text-gray-800 mb-6 md:mb-12">Cloud Navigator -1 </h2>
           <p className="mt-4 text-2xl md:text-4xl text-gray-600">Accelerate Your 
           <span className="text-yellow-500 md:text-5xl "><Typewriter/> </span>
            Journey!</p>
