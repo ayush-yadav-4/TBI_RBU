@@ -16,7 +16,7 @@ const Navbar = () => {
   <div className="container mx-auto p-3 flex justify-between items-center">
     {/* Logo */}
     <div className="text-2xl font-bold text-gray-800 ">
-      My Navbar
+      This is new  Navbar
     </div>
     
     {/* Centered Navbar Items */}
